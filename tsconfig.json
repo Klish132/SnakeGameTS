@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "lib": [
+            "es2017",
+            "DOM"
+        ],
+        "target": "es5",
+    },
+    "include": [
+        "./*"
+    ]
+}
